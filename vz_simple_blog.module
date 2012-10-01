@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SimpleBlog feature.
+ */
+
+include_once 'vz_simple_blog.features.inc';
